@@ -15,3 +15,4 @@ Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**, de Curiti
 ## 🔗 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/sibelly-rezer-6054a2250/)
+- [ORCID](https://orcid.org/0009-0000-7800-2354)
