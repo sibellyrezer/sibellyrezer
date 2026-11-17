@@ -4,8 +4,8 @@ Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**, de Curiti
 
 ## 🏆 Certificações
 
-- **GitHub Foundations — Parte 1 de 2** (Microsoft Learn) — concluído em 17/11/2026
-- **GitHub Foundations — Parte 2 de 2** (Microsoft Learn) — concluído em 17/11/2026
+- [GitHub Foundations — Parte 1 de 2](https://learn.microsoft.com/api/achievements/share/pt-br/SIBELLYDOSSANTOSREZER-1636/X4RKAH9Y?sharingId=D7D435A85F8C33A2) (Microsoft Learn) — concluído em 17/11/2026
+- [GitHub Foundations — Parte 2 de 2](https://learn.microsoft.com/api/achievements/share/pt-br/SIBELLYDOSSANTOSREZER-1636/UZH2ZLG3?sharingId=D7D435A85F8C33A2) (Microsoft Learn) — concluído em 17/11/2026
 - **Conceitos básicos do GitHub — Noções básicas de administração e recursos de produto** (Microsoft Learn) — concluído em 17/11/2026
 
 ## 📂 Projetos
